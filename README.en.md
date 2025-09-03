@@ -6,6 +6,8 @@
 Project manager by day – in my spare time I build smart-home setups, network solutions, and small reusable tools.
 
 ## Featured projects
+- **[ha-systemair-vtr500](https://github.com/Howard0000/ha-systemair-vtr500)**  
+  Complete integration for Systemair VTR-500 via Modbus TCP. Features advanced automation (Node-RED), a polished UI, and full sensor control. Norwegian + English README.
 - **[raspberrypi-nordvpn-gateway](https://github.com/Howard0000/raspberrypi-nordvpn-gateway)**  
   Pi-hole + NordVPN (NordLynx) with selective routing using `iptables`, and robust startup via `systemd`. Norwegian + English README, ready-to-use template.
 - **[home-assistant-norsk-tidevann](https://github.com/Howard0000/home-assistant-norsk-tidevann)**  
@@ -23,3 +25,4 @@ Project manager by day – in my spare time I build smart-home setups, network s
 
 ## Contact / contributions
 Open an **Issue** in the relevant repo – suggestions and PRs are welcome!
+
