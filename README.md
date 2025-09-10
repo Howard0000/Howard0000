@@ -10,7 +10,7 @@ Prosjektleder til daglig – på fritiden bygger jeg smarthus-oppsett, nettverks
 -   **[home-assistant-sikom](https://github.com/Howard0000/home-assistant-sikom)**  
     En moderne HACS-integrasjon for Sikom. Tilbyr enkel UI-konfigurasjon, automatisk enhetsdeteksjon og støtte for termostater, switcher, AMS-målere og Easee-ladere.
 
--   **[ha-systemair-vtr500](https://github.com/Howard0000/ha-systemair-vtr500)**  
+-   **[home-assistant-systemair-vtr500](https://github.com/Howard0000/home-assistant-systemair-vtr500)**  
     Komplett integrasjon for Systemair VTR-500 ventilasjon via Modbus TCP. Inkluderer Node-RED automasjoner og Lovelace UI.
 
 -   **[raspberrypi-nordvpn-gateway](https://github.com/Howard0000/raspberrypi-nordvpn-gateway)**  
@@ -32,5 +32,6 @@ Prosjektleder til daglig – på fritiden bygger jeg smarthus-oppsett, nettverks
 ## Kontakt / bidrag
 
 Åpne en **Issue** i repoet det gjelder – forslag og PR-er er velkomne!
+
 
 
