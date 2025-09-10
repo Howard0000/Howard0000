@@ -10,7 +10,7 @@ Project manager by day – in my spare time I build smart-home setups, network s
 -   **[home-assistant-sikom](https://github.com/Howard0000/home-assistant-sikom)**  
     A modern HACS integration for Sikom, featuring simple UI configuration, automatic device detection, and support for thermostats, switches, AMS meters, and Easee chargers.
 
--   **[ha-systemair-vtr500](https://github.com/Howard0000/ha-systemair-vtr500)**  
+-   **[home-assistant-systemair-vtr500](https://github.com/Howard0000/home-assistant-systemair-vtr500)**  
     Complete integration for Systemair VTR-500 via Modbus TCP. Features advanced automation (Node-RED), a polished UI, and full sensor control.
 
 -   **[raspberrypi-nordvpn-gateway](https://github.com/Howard0000/raspberrypi-nordvpn-gateway)**  
@@ -32,6 +32,7 @@ Project manager by day – in my spare time I build smart-home setups, network s
 ## Contact / contributions
 
 Open an **Issue** in the relevant repo – suggestions and PRs are welcome!
+
 
 
 
