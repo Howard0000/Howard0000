@@ -1,4 +1,5 @@
 # Hei! Jeg er Håvard (Howard0000) 👋  
+[:uk: English version](README.en.md)
 
 Prosjektleder i byggebransjen til daglig – utvikler og problemløser på fritiden.  
 Jeg liker å jobbe i små, sikre steg: mange commits, godt dokumentert kode og løsninger som faktisk fungerer i praksis.  
@@ -11,7 +12,6 @@ Jeg liker å jobbe i små, sikre steg: mange commits, godt dokumentert kode og l
 
 🔧 **Teknologier jeg ofte bruker:**  
 Python · YAML · Docker · Node-RED · iptables/iproute2 · Modbus · REST API  
-
 
 ## Utvalgte prosjekter
 
@@ -34,14 +34,9 @@ Python · YAML · Docker · Node-RED · iptables/iproute2 · Modbus · REST API
 
 ## Hvordan jeg jobber
 
--   Fokus på **dokumentasjon**, enkle skript og trygge defaults (ingen hemmeligheter i repo).
--   Kode og README blir ofte **språkvasket/polert med KI** – alle endringer vurderes og testes manuelt.
+-   Fokus på **dokumentasjon**, enkle skript og trygge defaults (ingen hemmeligheter i repo).  
+-   Kode og README blir ofte **språkvasket/polert med KI** – alle endringer vurderes og testes manuelt.  
 
 ## Kontakt / bidrag
 
 Åpne en **Issue** i repoet det gjelder – forslag og PR-er er velkomne!
-
-
-
-
-
