@@ -1,38 +1,42 @@
-# Hi, I'm Håvard (Howard0000) 👋
+# Hi! I'm Håvard (Howard0000) 👋  
+[:norway: Norsk versjon](README.md)
 
-> 🇬🇧 **English** · 🇳🇴 [Norsk](README.md)
+Project manager in the construction industry by day – developer and problem solver in my spare time.  
+I like to work in small, safe steps: many commits, well-documented code, and solutions that actually work in practice.  
 
-**Home Assistant • Raspberry Pi • Networking**  
-Project manager by day – in my spare time I build smart-home setups, network solutions, and small reusable tools.
+💡 **Focus areas:**  
+- Smart home (Home Assistant, integrations, automations)  
+- Networking and infrastructure (Raspberry Pi, VPN, Pi-hole, UniFi)  
+- Integrations with APIs and third-party devices  
+- Documentation and sharing of projects so others can reuse them  
 
-## Featured projects
+🔧 **Technologies I often use:**  
+Python · YAML · Docker · Node-RED · iptables/iproute2 · Modbus · REST API  
+
+## Selected projects
 
 -   **[home-assistant-sikom](https://github.com/Howard0000/home-assistant-sikom)**  
-    A modern HACS integration for Sikom, featuring simple UI configuration, automatic device detection, and support for thermostats, switches, AMS meters, and Easee chargers.
+    A modern HACS integration for Sikom. Provides easy UI configuration, automatic device discovery, and support for thermostats, switches, AMS meters, and Easee chargers.
 
 -   **[home-assistant-systemair-vtr500](https://github.com/Howard0000/home-assistant-systemair-vtr500)**  
-    Complete integration for Systemair VTR-500 via Modbus TCP. Features advanced automation (Node-RED), a polished UI, and full sensor control.
+    Complete integration for Systemair VTR-500 ventilation via Modbus TCP. Includes Node-RED automations and Lovelace UI.
 
 -   **[raspberrypi-nordvpn-gateway](https://github.com/Howard0000/raspberrypi-nordvpn-gateway)**  
-    Pi-hole + NordVPN (NordLynx) with selective routing using `iptables`, and robust startup via `systemd`. Norwegian + English README, ready-to-use template.
+    Pi-hole + NordVPN (NordLynx) with selective routing via `iptables` and robust startup via `systemd`. Norwegian + English README.
 
 -   **[home-assistant-norsk-tidevann](https://github.com/Howard0000/home-assistant-norsk-tidevann)**  
-    Tide sensors and a clean ApexCharts dashboard for Home Assistant (Kartverket).
+    Sensors and visual setup for tides in Home Assistant (Kartverket + ApexCharts).
 
-## Recommended project
+## Recommended projects
 
 -   **[ha-techem by @andreas-bertelsen](https://github.com/andreas-bertelsen/ha-techem)**  
-    Home Assistant integration/automation around Techem.
+    Integration/automation around Techem in Home Assistant.
 
 ## How I work
 
--   Emphasis on **documentation**, simple scripts, and safe defaults (no secrets in repos).
--   Code and READMEs are often **polished with AI** – all changes are manually reviewed and tested.
+-   Focus on **documentation**, simple scripts, and safe defaults (no secrets in repos).  
+-   Code and READMEs are often **language-polished with AI** – all changes are reviewed and tested manually.  
 
 ## Contact / contributions
 
 Open an **Issue** in the relevant repo – suggestions and PRs are welcome!
-
-
-
-
