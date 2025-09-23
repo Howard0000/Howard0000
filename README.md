@@ -1,9 +1,17 @@
-# Hei! Jeg er Håvard (Howard0000) 👋
+# Hei! Jeg er Håvard (Howard0000) 👋  
 
-> 🇳🇴 Norsk · 🇬🇧 [English](README.en.md)
+Prosjektleder i byggebransjen til daglig – utvikler og problemløser på fritiden.  
+Jeg liker å jobbe i små, sikre steg: mange commits, godt dokumentert kode og løsninger som faktisk fungerer i praksis.  
 
-**Home Assistant • Raspberry Pi • Nettverk**  
-Prosjektleder til daglig – på fritiden bygger jeg smarthus-oppsett, nettverksløsninger og små verktøy andre kan gjenbruke.
+💡 **Fokusområder:**  
+- Smarthus (Home Assistant, integrasjoner, automasjoner)  
+- Nettverk og infrastruktur (Raspberry Pi, VPN, Pi-hole, UniFi)  
+- Integrasjoner mot API-er og tredjepartsutstyr  
+- Dokumentasjon og deling av prosjekter slik at andre kan gjenbruke  
+
+🔧 **Teknologier jeg ofte bruker:**  
+Python · YAML · Docker · Node-RED · iptables/iproute2 · Modbus · REST API  
+
 
 ## Utvalgte prosjekter
 
@@ -32,6 +40,7 @@ Prosjektleder til daglig – på fritiden bygger jeg smarthus-oppsett, nettverks
 ## Kontakt / bidrag
 
 Åpne en **Issue** i repoet det gjelder – forslag og PR-er er velkomne!
+
 
 
 
