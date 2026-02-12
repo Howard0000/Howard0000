@@ -2,7 +2,7 @@
 [:uk: English version](README.en.md)
 
 Prosjektleder i byggebransjen til daglig – utvikler og problemløser på fritiden.  
-Jeg liker å jobbe i små, sikre steg: mange commits, godt dokumentert kode og løsninger som faktisk fungerer i praksis.  
+Jeg liker å jobbe i små, sikre steg: mange commits, godt dokumentert kode og løsninger som faktisk fungerer i praksis.
 
 💡 **Fokusområder:**  
 - Smarthus (Home Assistant, integrasjoner, automasjoner)  
@@ -13,33 +13,54 @@ Jeg liker å jobbe i små, sikre steg: mange commits, godt dokumentert kode og l
 🔧 **Teknologier jeg ofte bruker:**  
 Python · YAML · Docker · Node-RED · iptables/iproute2 · Modbus · REST API  
 
-## Utvalgte prosjekter
+---
 
--   **[home-assistant-sikom](https://github.com/Howard0000/home-assistant-sikom)**  
-    En moderne HACS-integrasjon for Sikom. Tilbyr enkel UI-konfigurasjon, automatisk enhetsdeteksjon og støtte for termostater, switcher, AMS-målere og Easee-ladere.
+## 🏆 HACS-integrasjoner (Home Assistant)
 
--   **[Home Assistant – Systemair Modbus (SAVE)](https://github.com/Howard0000/home-assistant-systemair-modbus)**  
-    Dette er en Home Assistant-integrasjon for Systemair SAVE-aggregater med støtte for Modbus TCP.
-    Integrasjonen gir strukturert overvåking og styring av ventilasjonsaggregatet i Home Assistant, med fokus på riktig luftmengde, energieffektiv drift og stabil entitetshåndtering.
+- **[home-assistant-sikom](https://github.com/Howard0000/home-assistant-sikom)**  
+  En **HACS-integrasjon for Home Assistant** for Sikom.  
+  Enkel UI-konfigurasjon, automatisk enhetsdeteksjon og støtte for termostater, switcher, AMS-målere og Easee-ladere.
 
--   **[raspberrypi-nordvpn-gateway](https://github.com/Howard0000/raspberrypi-nordvpn-gateway)**  
-    Pi-hole + NordVPN (NordLynx) med selektiv ruting via `iptables` og robust oppstart via `systemd`. Norsk + engelsk README.
+- **[home-assistant-systemair-modbus](https://github.com/Howard0000/home-assistant-systemair-modbus)**  
+  En **HACS-integrasjon for Home Assistant** for Systemair SAVE-aggregater via Modbus TCP.  
+  Gir strukturert overvåking og styring av ventilasjon, med fokus på stabil entitetshåndtering og energieffektiv drift.
 
--   **[home-assistant-norsk-tidevann](https://github.com/Howard0000/home-assistant-norsk-tidevann)**  
-    Sensorer og visuelt oppsett for tidevann i Home Assistant (Kartverket + ApexCharts).
+- **[home-assistant-norsk-tidevann](https://github.com/Howard0000/home-assistant-norsk-tidevann)**  
+  En **HACS-integrasjon for Home Assistant** for tidevann fra Kartverket.  
+  Inneholder sensorer og visualisering (ApexCharts) for enkel oversikt i Home Assistant.
 
-## Anbefalte prosjekter
+- **[home-assistant-hav-og-vind](https://github.com/Howard0000/home-assistant-hav-og-vind)** *(på vei til HACS)*  
+  En **custom Home Assistant-integrasjon** for bølge- og vinddata.  
+  Gir sensorer og visualisering for maritime forhold og værdata.
 
--   **[ha-techem av @andreas-bertelsen](https://github.com/andreas-bertelsen/ha-techem)**  
-    Integrasjon/automatisering rundt Techem i Home Assistant.
+---
 
-## Hvordan jeg jobber
+## 🔧 Andre prosjekter
 
--   Fokus på **dokumentasjon**, enkle skript og trygge defaults (ingen hemmeligheter i repo).  
--   Kode og README blir ofte **språkvasket/polert med KI** – alle endringer vurderes og testes manuelt.  
+- **[raspberrypi-nordvpn-gateway](https://github.com/Howard0000/raspberrypi-nordvpn-gateway)**  
+  Pi-hole + NordVPN (NordLynx) med selektiv ruting via `iptables` og robust oppstart via `systemd`.  
+  Norsk og engelsk README, laget for stabil drift i praksis.
 
-## Kontakt / bidrag
+---
 
-Åpne en **Issue** i repoet det gjelder – forslag og PR-er er velkomne!
+## ⭐ Anbefalte prosjekter
+
+- **[ha-techem av @andreas-bertelsen](https://github.com/andreas-bertelsen/ha-techem)**  
+  Integrasjon og automatisering rundt Techem i Home Assistant.
+
+---
+
+## 🛠 Hvordan jeg jobber
+
+- Fokus på **god dokumentasjon**, enkle løsninger og trygge defaults.  
+- Jeg liker små, oversiktlige commits fremfor store “alt på én gang”-endringer.  
+- Kode og README blir ofte **språkvasket og polert med KI**, men alle endringer vurderes og testes manuelt.  
+- Målet er alltid: løsninger som er **robuste, forståelige og enkle å vedlikeholde**.
+
+---
+
+## 📬 Kontakt / bidrag
+
+Åpne en **Issue** i repoet det gjelder – forslag og pull requests er hjertelig velkomne!
 
 
