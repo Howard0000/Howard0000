@@ -27,7 +27,7 @@ Python · YAML · Docker · Node-RED · iptables/iproute2 · Modbus · REST API
   En **HACS-integrasjon for Home Assistant** for tidevann fra Kartverket.  
   Inneholder sensorer og visualisering (ApexCharts) for enkel oversikt i Home Assistant.
 
-- **[home-assistant-systemair-modbus](https://github.com/Howard0000/home-assistant-systemair-modbus)** 
+- **[home-assistant-systemair-modbus](https://github.com/Howard0000/home-assistant-systemair-modbus)**   
   [![HACS](https://img.shields.io/badge/HACS-Default-green.svg)](https://hacs.xyz/)  
   En **custom Home Assistant-integrasjon** for Systemair SAVE-aggregater via Modbus TCP.  
   Gir strukturert overvåking og styring av ventilasjon, med fokus på stabil entitetshåndtering og energieffektiv drift.
@@ -66,4 +66,5 @@ Python · YAML · Docker · Node-RED · iptables/iproute2 · Modbus · REST API
 ## 📬 Kontakt / bidrag
 
 Åpne en **Issue** i repoet det gjelder – forslag og pull requests er hjertelig velkomne!
+
 
