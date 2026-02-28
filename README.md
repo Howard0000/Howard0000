@@ -32,8 +32,8 @@ Python · YAML · Docker · Node-RED · iptables/iproute2 · Modbus · REST API
   En **custom Home Assistant-integrasjon** for Systemair SAVE-aggregater via Modbus TCP.  
   Gir strukturert overvåking og styring av ventilasjon, med fokus på stabil entitetshåndtering og energieffektiv drift.
 
-- **[home-assistant-hav-og-vind](https://github.com/Howard0000/home-assistant-hav-og-vind)** *(på vei til HACS)*  
-  [![HACS](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://hacs.xyz/)  
+- **[home-assistant-hav-og-vind](https://github.com/Howard0000/home-assistant-hav-og-vind)**  
+  [![HACS](https://img.shields.io/badge/HACS-Default-green.svg)](https://hacs.xyz/)  
   En **custom Home Assistant-integrasjon** for bølge- og vinddata.  
   Gir sensorer og visualisering for maritime forhold og værdata.
 
@@ -66,5 +66,6 @@ Python · YAML · Docker · Node-RED · iptables/iproute2 · Modbus · REST API
 ## 📬 Kontakt / bidrag
 
 Åpne en **Issue** i repoet det gjelder – forslag og pull requests er hjertelig velkomne!
+
 
 
